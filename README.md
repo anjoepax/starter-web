@@ -16,3 +16,6 @@ This is the instruction
 This is the deployment
 
 Anthony Joseph Manigos
+
+#Copyright
+This is the copyright section
