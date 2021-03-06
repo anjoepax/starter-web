@@ -19,4 +19,4 @@ This is the deployment
 Anthony Joseph Manigos
 
 #Copyright
-This is the copyright section. All rights reserved!
+This is the copyright section. All rights reserved! after stash
