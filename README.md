@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 ### How To Contribute
 
 This is the instruction
+Please create pull request if you want to contribute
 
 ##### Deployment
 
