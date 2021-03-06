@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Anthony Joseph Manigos
+Anthony Joseph Manigos. Adding another line here for rebasing example
 
 ## Purpose
 
